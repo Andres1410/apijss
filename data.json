@@ -1,0 +1,93 @@
+[{
+        "id": 1,
+        "title": "charles chapli",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "id_del_autor_creado_anteriormente"
+    },
+    {
+        "id": 2,
+        "title": "robin wiliams",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "robin"
+    },
+    {
+        "id": 3,
+        "title": "100 años de soledad",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "Gabriel garcia marquez"
+    },
+    {
+        "id": 4,
+        "title": "Harry potter y las reliquias de la muerte",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "lewis"
+    },
+    {
+
+        "id": 5,
+        "title": "Narnia",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "lewis"
+    },
+    {
+
+        "id": 6,
+        "title": "Harry potter y las reliquias de la muerte",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "lewis"
+    },
+    {
+
+        "id": 7,
+        "title": "davincy",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "nabucodonosor"
+    },
+    {
+
+        "id": 8,
+        "title": "Barack obama",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "usein"
+    },
+    {
+
+        "id": 9,
+        "title": "hilary klipton",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "cliptoines"
+    },
+    {
+
+        "id": 10,
+        "title": "Mac donals",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "rubsteins"
+    },
+    {
+
+        "id": 11,
+        "title": "Donald Trump",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "trumpintows"
+    },
+    {
+
+        "id": 11,
+        "title": "howkeins",
+        "chapters": 10,
+        "pages": 200,
+        "authorId": "dumblendore"
+    }
+]
